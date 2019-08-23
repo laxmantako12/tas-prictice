@@ -14,7 +14,9 @@ get_header();
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
-
+			<div class="container">
+				this is contact page
+			</div>
 		
 
 		</main><!-- #main -->
